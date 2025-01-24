@@ -1,4 +1,4 @@
 # aradhy-demo
-first repository
+First Repository
 <br>
 Author-Aradhy Jadhav 
